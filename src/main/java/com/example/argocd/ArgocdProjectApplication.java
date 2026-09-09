@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ArgocdProjectApplication {
 	public static void main(String[] args) {
-		
 		SpringApplication.run(ArgocdProjectApplication.class, args);
 	}
 }
